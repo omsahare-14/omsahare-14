@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omsahare-14
 - 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently doing B.Tech in Computer Science Engineering with specialization in Cyber Security and Digital Forensics
-- 📫 My LinkedIn: https://www.linkedin.com/in/om-sahare-253b30207/
+- 🌱 I’m currently working as a Security Engineer
+- 📫 My LinkedIn: [https://www.linkedin.com/in/omsahare14/](https://www.linkedin.com/in/omsahare14/)
 - 📧 My Email: omsahare002@gmail.com
 
 <!---
